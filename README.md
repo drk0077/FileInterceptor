@@ -4,6 +4,7 @@ The script is a file interceptor tailored for HTTP traffic, specifically designe
 
 **NOTE:**
 >'HTTP/1.1 301 Moved Permanently\r\nLocation: http://facebook.com\r\n\r\n '
+
 make sure to replace the url in the location of the above in the code befor e running the code, you could replace it with url redirecting to webpages were you have hosted your payload.
 
 keep in mind to make use of this code while you are man in the middle.
